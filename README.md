@@ -1,2 +1,2 @@
-# bowgaem
-Game created for an university project.
+# VR bow shooting game
+
